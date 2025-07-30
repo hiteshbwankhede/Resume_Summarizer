@@ -2,7 +2,7 @@ streamlit
 openai
 langchain
 langchain-community
-langchain-groq
+tiktoken
 python-dotenv
 pypdf
 transformers
