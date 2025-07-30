@@ -49,7 +49,7 @@ if pdf_file:
 
     st.success("Summary Generated:")
     #formatted_summary = "\n- ".join([sentence.strip() for sentence in summary.split(". ") if sentence.strip()])
-    #formatted_summary = "- " + formatted_summary  # Add a bullet point at the start
+    #formatted_summary = "- " + formatted_summary  # Add a bullet point at the star
     #st.write(response["text"])
     #formatted_summary = summary
     for points in summary:
